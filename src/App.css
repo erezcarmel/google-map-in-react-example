@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+header {
+  height: 5vh;
+  color: orange;
+}
+
+h1 {
+  font-size: 1.5em;
+}
+
+.map {
+  height: 90vh;
+}
